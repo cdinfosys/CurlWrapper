@@ -1,0 +1,12 @@
+*.in
+*.m4
+*.log
+
+autom4te.cache
+build
+configure
+depcomp
+install-sh
+missing
+GnuLinux
+Windows
